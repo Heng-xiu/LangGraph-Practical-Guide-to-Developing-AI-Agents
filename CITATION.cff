@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this book or its accompanying code, please cite it as follows."
+title: "書本名稱"
+abstract: "This book offers a hands-on, comprehensive guide to developing AI agents with LangGraph, featuring practical examples and step-by-step instructions."
+date-released: 上市日期
+authors:
+  - family-names: "許"
+    given-names: "恆修"
+license: "MIT"
+url: "購買連結"
+repository-code: "https://github.com/Heng-xiu/LangGraph-Practical-Guide-to-Developing-AI-Agents"
+keywords:
+  - LangGraph
+  - AI agent
+  - practical guide
+  - tutorial
