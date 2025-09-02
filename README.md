@@ -1,5 +1,5 @@
 # LangGraph 實戰開發 AI Agent 全攻略：掌握 AI 模型 × 工作流程 × 設計應用
-![書籍封面](MP22533.jpg)
+<a href="https://www.tenlong.com.tw/products/9786264142915"><img src="MP22533.jpg" width="220px"></a>
 
 此儲存庫為 iThome 鐵人賽系列書《LangGraph 實戰開發 AI Agent 全攻略：掌握 AI 模型 × 工作流程 × 設計應用，從零打造智慧分工多代理協作系統》的搭配程式範例。上方圖片 `MP22533.jpg` 為書籍封面，已放在專案根目錄，可直接在 README 中顯示。
 
