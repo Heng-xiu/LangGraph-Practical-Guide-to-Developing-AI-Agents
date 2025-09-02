@@ -1,13 +1,13 @@
 cff-version: 1.2.0
-message: "If you use this book or its accompanying code, please cite it as follows."
+message: "LangGraph 實戰開發 AI Agent 全攻略：掌握 AI 模型 × 工作流程 × 設計應用，從零打造智慧分工多代理協作系統"
 title: "書本名稱"
 abstract: "This book offers a hands-on, comprehensive guide to developing AI agents with LangGraph, featuring practical examples and step-by-step instructions."
-date-released: 上市日期
+date-released: 2025/09/04
 authors:
-  - family-names: "許"
-    given-names: "恆修"
-license: "MIT"
-url: "購買連結"
+  - family-names: "Sheu"
+    given-names: "Heng-Shiou"
+license: "Apache-2.0"
+url: "https://www.tenlong.com.tw/products/9786264142915"
 repository-code: "https://github.com/Heng-xiu/LangGraph-Practical-Guide-to-Developing-AI-Agents"
 keywords:
   - LangGraph
