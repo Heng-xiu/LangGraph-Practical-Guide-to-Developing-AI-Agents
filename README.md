@@ -9,6 +9,7 @@
 - [博客來（實體書現貨購買）](https://www.books.com.tw/products/0011030699)
 - [讀冊生活（TAAZE）（實體書現貨購買）](https://www.taaze.tw/usedList.html?oid=11101071931)
 - [MoMo（實體書現貨購買）](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14365456&srsltid=AfmBOorLDGHbHEs63zwlidtgIa-A06u1rbCcru5wPL6XRA469jqeqJ_e)
+- [博碩文化 蝦皮購物（實體書現貨購買）](https://shopee.tw/product/728783014/43214096637/)
 - [Kobo 樂天（電子書醞釀中）](https://www.kobo.com/tw/zh/search?query=LangGraph%20%E5%AF%A6%E6%88%B0%E9%96%8B%E7%99%BC%20AI%20Agent%20%E5%85%A8%E6%94%BB%E7%95%A5)
 - [Readmoo（讀墨，電子書醞釀中）](https://readmoo.com/search/keyword?q=langgraph&kw=langgraph&page=1&st=true)
 - [Pubu（電子書醞釀中）](https://www.google.com/search?q=site%3Apubu.com.tw+LangGraph+%E5%AF%A6%E6%88%B0%E9%96%8B%E7%99%BC+AI+Agent+%E5%85%A8%E6%94%BB%E7%95%A5)
