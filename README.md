@@ -3,6 +3,19 @@
 
 此儲存庫為 iThome 鐵人賽系列書《LangGraph 實戰開發 AI Agent 全攻略：掌握 AI 模型 × 工作流程 × 設計應用，從零打造智慧分工多代理協作系統》的搭配程式範例。上方圖片 `MP22533.jpg` 為書籍封面，已放在專案根目錄，可直接在 README 中顯示。
 
+## 購書管道（點擊前往）
+
+- [天瓏書局（實體書現貨購買）](https://www.tenlong.com.tw/products/9786264142915)
+- [博客來（實體書現貨購買）](https://www.books.com.tw/products/0011030699)
+- [讀冊生活（TAAZE）（實體書現貨購買）](https://www.taaze.tw/usedList.html?oid=11101071931)
+- [MoMo（實體書現貨購買）](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14365456&srsltid=AfmBOorLDGHbHEs63zwlidtgIa-A06u1rbCcru5wPL6XRA469jqeqJ_e)
+- [Kobo 樂天（電子書醞釀中）](https://www.kobo.com/tw/zh/search?query=LangGraph%20%E5%AF%A6%E6%88%B0%E9%96%8B%E7%99%BC%20AI%20Agent%20%E5%85%A8%E6%94%BB%E7%95%A5)
+- [Readmoo（讀墨，電子書醞釀中）](https://readmoo.com/search/keyword?q=langgraph&kw=langgraph&page=1&st=true)
+- [Pubu（電子書醞釀中）](https://www.google.com/search?q=site%3Apubu.com.tw+LangGraph+%E5%AF%A6%E6%88%B0%E9%96%8B%E7%99%BC+AI+Agent+%E5%85%A8%E6%94%BB%E7%95%A5)
+- [Google Play 圖書（，電子書醞釀中）](https://play.google.com/store/search?q=LangGraph%20%E5%AF%A6%E6%88%B0%E9%96%8B%E7%99%BC%20AI%20Agent%20%E5%85%A8%E6%94%BB%E7%95%A5&c=books)
+- [HyRead（凌網，，電子書醞釀中）](https://www.google.com/search?q=site%3Ahyread.com.tw+LangGraph+%E5%AF%A6%E6%88%B0%E9%96%8B%E7%99%BC+AI+Agent+%E5%85%A8%E6%94%BB%E7%95%A5)
+- [UDN 讀書吧（，電子書醞釀中）](https://www.google.com/search?q=site%3Areading.udn.com+LangGraph+%E5%AF%A6%E6%88%B0%E9%96%8B%E7%99%BC+AI+Agent+%E5%85%A8%E6%94%BB%E7%95%A5)
+
 ## 專案目錄
 ---------------------
 
